@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 Machine Learning example
-http://mnemstudio.org/path-finding-q-learning-tutorial.html
+http://mnemstudio.org/path-finding-q-learning-tutorial.htm
 """
 import networkx as nx
 
